@@ -1,0 +1,11 @@
+Rawadf is a program for manipulating extended ADF images
+such as those created with the "rawread" program available
+on Aminet (http://aminet.net/package/disk/backup/rawread).
+
+It can be used to display information about an Extended ADF
+file, compare two Extended ADF files, merge Extended ADF files
+together, replace tracks from one Extended ADF file with
+tracks from another, and split Extended ADF files.
+
+Type 'rawadf help' for usage instructions.
+
